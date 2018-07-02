@@ -1,0 +1,14 @@
+Looking for private
+    private final AirLineBaseTemplateRestService restService;
+    private final UniversalElasticService elasticService;
+Looking for  public
+    public AirLineBaseTemplateController(AirLineBaseTemplateRestService restService, UniversalElasticService elasticService) {
+    public AirLineBaseTemplateDto getAirLineBaseTemplate(@PathVariable Long id) {
+    public AirLineBaseTemplateDto saveAirLineBaseTemplate (@RequestBody AirLineBaseTemplateBaseDto dto) {
+    public void deleteAirLineBaseTemplate (@PathVariable Long id) {
+    public AirLineBaseTemplateDto updateAirLineBaseTemplate (@PathVariable Long id, @RequestBody AirLineBaseTemplateBaseDto dto) {
+    public List<AirLineBaseTemplateDto> findAllByElasticJsonFilter(@RequestParam(name = "filters", defaultValue = "{}") String filterParams,
+Looking for  final
+    private final AirLineBaseTemplateRestService restService;
+    private final UniversalElasticService elasticService;
+        final Pageable pageRequest = new PageRequest(page, size);

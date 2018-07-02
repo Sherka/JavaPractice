@@ -1,0 +1,114 @@
+Looking for mario
+2,Super Mario Bros.,NES,1985,Platform,Nintendo,29.08,3.58,6.81,0.77,40.24
+3,Mario Kart Wii,Wii,2008,Racing,Nintendo,15.85,12.88,3.79,3.31,35.82
+7,New Super Mario Bros.,DS,2006,Platform,Nintendo,11.38,9.23,6.5,2.9,30.01
+9,New Super Mario Bros. Wii,Wii,2009,Platform,Nintendo,14.59,7.06,4.7,2.26,28.62
+12,Mario Kart DS,DS,2005,Racing,Nintendo,9.81,7.57,4.13,1.92,23.42
+19,Super Mario World,SNES,1990,Platform,Nintendo,12.78,3.75,3.54,0.55,20.61
+22,Super Mario Land,GB,1989,Platform,Nintendo,10.83,2.71,4.18,0.42,18.14
+23,Super Mario Bros. 3,NES,1988,Platform,Nintendo,9.54,3.44,3.84,0.46,17.28
+43,Mario Kart 7,3DS,2011,Racing,Nintendo,4.74,3.91,2.67,0.89,12.21
+47,Super Mario 64,N64,1996,Platform,Nintendo,6.91,2.85,1.91,0.23,11.89
+49,Super Mario Galaxy,Wii,2007,Platform,Nintendo,6.16,3.4,1.2,0.76,11.52
+51,Super Mario Land 2: 6 Golden Coins,GB,1992,Adventure,Nintendo,6.16,2.04,2.69,0.29,11.18
+54,Super Mario 3D Land,3DS,2011,Platform,Nintendo,4.89,2.99,2.13,0.78,10.79
+58,Super Mario All-Stars,SNES,1993,Platform,Nintendo,5.99,2.15,2.12,0.29,10.55
+60,Super Mario 64,DS,2004,Platform,Nintendo,5.08,3.11,1.25,0.98,10.42
+64,Mario Kart 64,N64,1996,Racing,Nintendo,5.55,1.94,2.23,0.15,9.87
+65,New Super Mario Bros. 2,3DS,2012,Platform,Nintendo,3.66,3.07,2.47,0.63,9.82
+75,Mario Party DS,DS,2007,Misc,Nintendo,4.46,1.88,1.98,0.7,9.02
+77,Super Mario Kart,SNES,1992,Racing,Nintendo,3.54,1.24,3.81,0.18,8.76
+81,Mario Party 8,Wii,2007,Misc,Nintendo,3.81,2.3,1.58,0.73,8.42
+86,Mario & Sonic at the Olympic Games,Wii,2007,Sports,Sega,2.58,3.9,0.66,0.91,8.06
+92,Super Mario Galaxy 2,Wii,2010,Platform,Nintendo,3.66,2.42,0.98,0.64,7.69
+97,Super Mario Bros. 2,NES,1988,Platform,Nintendo,5.39,1.18,0.7,0.19,7.46
+109,Mario Kart 8,WiiU,2014,Racing,Nintendo,3.13,2.07,1.27,0.49,6.96
+111,Mario Kart: Double Dash!!,GC,2003,Racing,Nintendo,4.12,1.77,0.87,0.19,6.95
+136,Super Mario Sunshine,GC,2002,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31
+163,Super Mario Advance,GBA,2001,Platform,Nintendo,3.14,1.24,0.91,0.2,5.49
+164,Mario Kart: Super Circuit,GBA,2001,Racing,Nintendo,2.62,1.64,0.99,0.23,5.47
+165,Super Mario World,GBA,2001,Platform,Nintendo,3.21,1.11,0.95,0.2,5.46
+171,Dr. Mario,GB,1989,Puzzle,Nintendo,2.18,0.96,2,0.2,5.34
+183,Super Mario Bros. 3,GBA,2003,Platform,Nintendo,2.93,1.25,0.83,0.2,5.2
+184,New Super Mario Bros. U,WiiU,2012,Platform,Nintendo,2.32,1.3,1.27,0.31,5.19
+185,Super Mario Land 3: Wario Land,GB,1994,Platform,Nintendo,2.49,0.98,1.57,0.15,5.19
+190,Mario & Sonic at the Olympic Games,DS,2008,Sports,Sega,1.64,2.48,0.44,0.58,5.14
+201,Super Mario Bros.,GB,1999,Platform,Nintendo,3.4,1.3,0.15,0.22,5.07
+216,Dr. Mario,NES,1990,Puzzle,Nintendo,2.62,0.6,1.52,0.1,4.85
+234,Mario & Sonic at the Olympic Winter Games,Wii,2009,Sports,Sega,1.89,1.99,0.22,0.48,4.58
+262,Super Mario 3D World,WiiU,2013,Platform,Nintendo,2.11,1.11,0.72,0.3,4.25
+283,Super Mario World 2: Yoshi's Island,SNES,1995,Platform,Nintendo,1.65,0.61,1.76,0.09,4.12
+320,Mario & Luigi: Bowser's Inside Story,DS,2009,Role-Playing,Nintendo,2.26,0.48,0.81,0.27,3.83
+324,Mario & Sonic at the London 2012 Olympic Games,Wii,2011,Sports,Sega,1.14,1.91,0.27,0.46,3.78
+330,Super Paper Mario,Wii,2007,Platform,Nintendo,1.98,0.88,0.59,0.32,3.76
+371,Mario & Sonic at the Olympic Winter Games,DS,2009,Sports,Sega,1.22,1.66,0.27,0.38,3.52
+406,Mario Party 9,Wii,2012,Misc,Nintendo,1.15,1.17,0.76,0.24,3.32
+430,Super Mario Maker,WiiU,2015,Platform,Nintendo,1.18,0.87,0.93,0.2,3.18
+493,Super Mario World 2: Yoshi's Island,GBA,2002,Platform,Nintendo,1.75,0.45,0.62,0.09,2.91
+546,Mario Paint,SNES,1992,Misc,Nintendo,1.43,0.54,0.71,0.07,2.75
+555,Mario Party,N64,1998,Misc,Nintendo,1.25,0.53,0.87,0.05,2.7
+559,Mario vs. Donkey Kong: Mini-Land Mayhem!,DS,2010,Puzzle,Nintendo,1.63,0.52,0.35,0.18,2.69
+574,Super Mario Bros.: The Lost Levels,NES,1986,Platform,Nintendo,0,0,2.65,0,2.65
+582,Mario Strikers Charged,Wii,2007,Sports,Nintendo,1.07,1.06,0.24,0.25,2.62
+588,Super Mario All-Stars: Limited Edition,Wii,2010,Platform,Nintendo,1.02,0.52,0.92,0.14,2.6
+616,Mario Party 2,N64,1999,Misc,Nintendo,1.28,0.14,1.08,0.01,2.5
+627,Mario Party 4,GC,2002,Misc,Nintendo,1.13,0.36,0.92,0.07,2.47
+685,Mario Tennis,N64,2000,Sports,Nintendo,0.78,0.4,1.06,0.07,2.32
+702,Mario Bros.,NES,1983,Platform,Nintendo,0.51,0.12,1.63,0.02,2.28
+707,Paper Mario: Sticker Star,3DS,2012,Role-Playing,Nintendo,1.12,0.39,0.64,0.12,2.27
+718,Paper Mario: The Thousand-Year Door,GC,2004,Role-Playing,Nintendo,1.48,0.25,0.46,0.06,2.25
+753,Mario & Luigi: Superstar Saga,GBA,2003,Role-Playing,Nintendo,1.48,0.17,0.47,0.06,2.17
+764,Super Mario RPG: Legend of the Seven Stars,SNES,1996,Role-Playing,Nintendo,0.66,0,1.45,0.03,2.14
+783,Mario Sports Mix,Wii,2010,Sports,Nintendo,0.9,0.45,0.63,0.13,2.11
+805,Mario Party 5,GC,2003,Misc,Nintendo,0.97,0.33,0.73,0.06,2.08
+822,Mario & Luigi: Dream Team,3DS,2013,Role-Playing,Nintendo,0.89,0.57,0.46,0.13,2.06
+894,Mario Super Sluggers,Wii,2008,Sports,Nintendo,1.51,0,0.29,0.12,1.93
+904,Mario Party 3,N64,2000,Misc,Nintendo,0.72,0.16,1.01,0.02,1.91
+936,Mario Party: Island Tour,3DS,2013,Misc,Nintendo,0.61,0.59,0.55,0.11,1.85
+1109,Mario Party 6,GC,2004,Misc,Nintendo,0.9,0.11,0.6,0.05,1.65
+1138,Mario Hoops 3 on 3,DS,2006,Sports,Nintendo,0.99,0.04,0.49,0.1,1.62
+1146,Super Mario Strikers,GC,2005,Sports,Nintendo,0.98,0.38,0.2,0.04,1.61
+1165,Mario Bros.,2600,1982,Platform,Atari,1.48,0.09,0,0.02,1.59
+1185,Mario Party 7,GC,2005,Misc,Nintendo,0.95,0.11,0.46,0.04,1.57
+1209,Mario Party 10,WiiU,2015,Misc,Nintendo,0.69,0.5,0.24,0.11,1.55
+1227,Mario Golf: Toadstool Tour,GC,2003,Sports,Nintendo,1.09,0.15,0.25,0.04,1.53
+1277,New Play Control! Mario Power Tennis,Wii,2009,Sports,Nintendo,0.37,0.69,0.28,0.14,1.48
+1290,Mario Golf,N64,1999,Action,Nintendo,0.62,0.18,0.65,0.02,1.47
+1310,Mario Superstar Baseball,GC,2005,Sports,Nintendo,0.93,0.24,0.25,0.04,1.46
+1353,Classic NES Series: Super Mario Bros.,GBA,2004,Platform,Nintendo,0,0,1.39,0.03,1.43
+1403,Paper Mario,N64,2000,Role-Playing,Nintendo,0.58,0.18,0.59,0.02,1.38
+1458,Mario & Luigi: Partners in Time,DS,2005,Role-Playing,Nintendo,0.77,0.07,0.43,0.08,1.34
+1636,Mario Power Tennis,GC,2004,Sports,Nintendo,0.58,0.16,0.46,0.03,1.22
+1683,Mario vs. Donkey Kong 2: March of the Minis,DS,2006,Puzzle,Nintendo,0.74,0.03,0.36,0.07,1.2
+1694,Mario & Sonic at the London 2012 Olympic Games,3DS,2012,Sports,Sega,0.18,0.64,0.27,0.1,1.19
+1712,Mario Tennis,GB,2000,Sports,Nintendo,0.5,0.18,0.44,0.06,1.18
+1740,Mario vs. Donkey Kong,GBA,2004,Puzzle,Nintendo,0.68,0.25,0.21,0.02,1.17
+2111,Mario Party Advance,GBA,2005,Misc,Nintendo,0.5,0.19,0.28,0.02,0.98
+2206,Mario Tennis Open,3DS,2012,Sports,Nintendo,0.26,0.29,0.33,0.05,0.94
+2592,Mario & Sonic at the Sochi 2014 Olympic Winter Games,WiiU,2013,Sports,Nintendo,0.39,0.22,0.13,0.06,0.8
+2773,Mario & Luigi: Paper Jam,3DS,2015,Role-Playing,Nintendo,0.16,0.3,0.25,0.04,0.74
+2956,Mario Pinball Land,GBA,2004,Misc,Nintendo,0.5,0.18,0,0.01,0.69
+3273,Mario's Picross,GB,1995,Puzzle,Nintendo,0,0,0.62,0,0.62
+3570,Classic NES Series: Dr. Mario,GBA,2004,Puzzle,Nintendo,0.31,0.11,0.13,0.01,0.56
+3824,Mario Tennis: Power Tour,GBA,2005,Sports,Nintendo,0.24,0.09,0.19,0.01,0.52
+4043,Mario & Wario,SNES,1993,Puzzle,Nintendo,0,0,0.49,0,0.49
+4093,Mario Golf: World Tour,3DS,2014,Sports,Nintendo,0.15,0.14,0.17,0.03,0.48
+4223,Dance Dance Revolution: Mario Mix,GC,2005,Misc,Nintendo,0.36,0.09,0,0.01,0.47
+4263,Mario & Sonic at the Rio 2016 Olympic Games,3DS,2016,Action,Nintendo,0.04,0.16,0.24,0.01,0.46
+4301,Puzzle & Dragons Z + Super Mario Bros. Edition,3DS,2015,Puzzle,Nintendo,0.05,0.05,0.34,0.01,0.46
+4402,Mario Tennis Ultra Smash,WiiU,2015,Sports,Nintendo,0.13,0.16,0.13,0.03,0.45
+4406,Mario Golf: Advance Tour,GBA,2004,Sports,Nintendo,0.32,0.12,0,0.01,0.45
+4590,Famicom Mini: Super Mario Bros. 2,GBA,2004,Platform,Nintendo,0,0,0.41,0.01,0.42
+4625,Dr. Mario 64,N64,2001,Puzzle,Nintendo,0.34,0.07,0,0,0.42
+4767,Mario no Super Picross,SNES,1995,Puzzle,Nintendo,0,0,0.41,0,0.41
+5569,Dr. Mario / Puzzle League,GBA,2005,Puzzle,Nintendo,0.12,0.04,0.16,0.01,0.33
+5718,Mario Golf,GB,1999,Action,Nintendo,0,0,0.31,0,0.31
+6590,Mario & Sonic at the Rio 2016 Olympic Games,WiiU,2016,Action,Nintendo,0.03,0.11,0.1,0.01,0.26
+11284,Famicom Mini: Mario Bros.,GBA,2004,Platform,Nintendo,0,0,0.08,0,0.08
+12125,Mario Tennis,Wii,2010,Sports,Nintendo,0,0.06,0,0.01,0.07
+12375,Mario vs. Donkey Kong: Tipping Stars,3DS,2015,Puzzle,Nintendo,0,0,0.06,0,0.06
+12772,Dance Dance Revolution: Mario Mix (JP sales),GC,2005,Simulation,Nintendo,0,0,0.05,0,0.06
+13275,Detective Conan: Marionette Symphony,3DS,2013,Adventure,Namco Bandai Games,0,0,0.05,0,0.05
+15264,Mario Tennis,3DS,N/A,Sports,N/A,0,0,0.02,0,0.02
+16360,Mario vs. Donkey Kong: Tipping Stars,WiiU,2015,Puzzle,Nintendo,0,0,0.01,0,0.01
+16545,Mario & Luigi: Paper Jam & Mario Kart 7 Double Pack,3DS,2015,Misc,Nintendo,0,0,0.01,0,0.01
